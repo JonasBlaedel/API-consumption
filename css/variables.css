@@ -1,0 +1,15 @@
+:root {
+  --color-bg-header: #321224;
+  --color-bg-nav: #6d0016;
+  --color-bg-article: #a00038;
+  --color-text-white: white;
+  --color-text-black: black;
+
+  --font-size-title: 1.5em;
+  --font-size-paragraph: 1em;
+  --font-size-title-mobile: 1.2em;
+
+  --spacing-large: 2rem;
+  --spacing-medium: 20px;
+  --spacing-small: 10px;
+}
